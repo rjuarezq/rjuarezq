@@ -27,7 +27,7 @@
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-323330?style=flat&logo=postgresql&logoColor=E0FFFF)
 
-
+<br>
 <img align="right" alt="GIF" src="./assets/dev-working_rounded.gif" width="500" height="320" />
 
 
