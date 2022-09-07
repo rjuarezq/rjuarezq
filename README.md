@@ -40,14 +40,11 @@
 - 📫 &nbsp; How to reach me: juarezqricardo@gmail.com
 <!--- 📝 &nbsp; Checkout my [Resume](under construction).-->
 
-
 ## ✨ My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-
-<br>
 
 ## ⚙️ Things I use to get stuff done
 <div>
