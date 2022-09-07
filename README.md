@@ -28,8 +28,9 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-323330?style=flat&logo=postgresql&logoColor=E0FFFF)
 
 <div>
-<img align="right" alt="GIF" style="padding-left:50px" src="./assets/dev-working_rounded.gif" width="480" height="320" />
-
+<div style="marging-left:50px">
+<img align="right" alt="GIF" src="./assets/dev-working_rounded.gif" width="480" height="320" />
+</div>
 <div>
 ## 👨🏻‍💻 Talking about Personal Stuffs:
 
