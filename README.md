@@ -9,8 +9,14 @@
 
 
  I am a versatilist and easily adapt to different hats (Frontend Web Developer 🌐, Data Analyst 🧮). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. 👨🏻‍💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+
+<center> <img alt="GIF" src="./assets/dev-working_rounded.gif" width="480" height="320" /></center>
+
+<hr></hr>
 <br>
-<br>
+
+
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -27,11 +33,7 @@
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-323330?style=flat&logo=postgresql&logoColor=E0FFFF)
 
-<div>
-<div style="marging-left:50px">
-<img align="right" alt="GIF" src="./assets/dev-working_rounded.gif" width="480" height="320" />
-</div>
-<div>
+
 
 ## 👨🏻‍💻 Talking about Personal Stuffs:
 
@@ -58,5 +60,3 @@
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	</ul>	
 <div>
-</div>
-</div>
