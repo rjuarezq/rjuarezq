@@ -27,10 +27,10 @@
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-323330?style=flat&logo=postgresql&logoColor=E0FFFF)
 
-
+<div>
 <img align="right" alt="GIF" style="padding-left:50px" src="./assets/dev-working_rounded.gif" width="480" height="320" />
 
-
+<div>
 ## 👨🏻‍💻 Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
@@ -56,3 +56,5 @@
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	</ul>	
 <div>
+</div>
+</div>
