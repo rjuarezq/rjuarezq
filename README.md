@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Ricardo Juarez!](https://github.com/rjuarezq/)
+## Hey 👋, I'm [Ricardo Juarez!](https://github.com/rjuarezq/) 🙋🏽‍♂️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardojuarezq/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rjuarezq.github.io/)
@@ -8,7 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/<nick_name>)-->
 
 
- I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Data Analyst). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. 👨🏻‍💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Data Analyst 🧮). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. 👨🏻‍💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 <br>
 <br>
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
@@ -31,30 +31,26 @@
 <img align="right" alt="GIF" src="./assets/dev-working_rounded.gif" width="500" height="320" />
 
 
-## Talking about Personal Stuffs:
+## 👨🏻‍💻 Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rjuarezq).
+- 💎 &nbsp; Most of my projects are available on [Github](https://github.com/rjuarezq).
 - 👾 &nbsp; The first computer “bug” was an actual real-life bug.
 - 📫 &nbsp; How to reach me: juarezqricardo@gmail.com
 <!--- 📝 &nbsp; Checkout my [Resume](under construction).-->
 
 
-## My Absolute Favorites:
+## ✨ My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 
 <br>
-<!---
-rjuarezq/rjuarezq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## ⚙️ Things I use to get stuff done
-<br>
+<div>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> Dell G3 15</li>
@@ -62,4 +58,4 @@ You can click the Preview link to take a look at your changes.
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	</ul>	
-
+<div>
