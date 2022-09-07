@@ -28,7 +28,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-323330?style=flat&logo=postgresql&logoColor=E0FFFF)
 
 
-<img align="right" alt="GIF" src="./assets/dev-working_rounded.gif" width="480" height="320" />
+<img align="right" alt="GIF" style="padding-left:50px" src="./assets/dev-working_rounded.gif" width="480" height="320" />
 
 
 ## 👨🏻‍💻 Talking about Personal Stuffs:
