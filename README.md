@@ -1,3 +1,5 @@
+<div align="center" width="50">
+
 ## Hey 👋, I'm [Ricardo Juarez!](https://github.com/rjuarezq/) 🙋🏽‍♂️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardojuarezq/)
@@ -11,11 +13,11 @@
  I am a versatilist and easily adapt to different hats (Frontend Web Developer 🌐, Data Analyst 🧮). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. 👨🏻‍💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
-<center> <img alt="GIF" src="./assets/dev-working_rounded.gif" height="400" href="https://github.com/rjuarezq"width="60%"/><br></center>
+<img alt="GIF" src="./assets/dev-working_rounded.gif" width="480" height="320" />
 
-<hr></hr>
+
 <br>
-
+<br>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -32,8 +34,13 @@
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-323330?style=flat&logo=postgresql&logoColor=E0FFFF)
+</div>
 
+<div>
+<div style="marging-left:50px">
 
+</div>
+<div>
 
 ## 👨🏻‍💻 Talking about Personal Stuffs:
 
@@ -60,3 +67,5 @@
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	</ul>	
 <div>
+</div>
+</div>
