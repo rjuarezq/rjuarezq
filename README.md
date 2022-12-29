@@ -10,7 +10,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/<nick_name>)-->
 
 
- I am a versatilist and easily adapt to different hats (Frontend Web Developer 🌐, Data Analyst 🧮). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. 👨🏻‍💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Data Analyst 🧮). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. 👨🏻‍💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
 <img alt="GIF" src="./assets/dev-working_rounded.gif" width="480" height="320" />
@@ -44,7 +44,7 @@
 
 ## 👨🏻‍💻 Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Python(Django), Javascript(React), <br /> PostgreSQL, Docker, etc.
 - 🚀 &nbsp; I’m currently learning Frontend Developer.
 - 💎 &nbsp; Most of my projects are available on [Github](https://github.com/rjuarezq).
 - 👾 &nbsp; The first computer “bug” was an actual real-life bug.
